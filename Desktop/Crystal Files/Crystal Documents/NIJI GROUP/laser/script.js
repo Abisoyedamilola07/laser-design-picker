@@ -1,28 +1,114 @@
-// Your designs array - UPDATE THESE WITH YOUR ACTUAL IMAGES
 const designs = [
   {
     name: "NLD-01",
-    description: "Beautiful starry laser engraving perfect for personalization and gifts",
+    description:
+      "Beautiful starry laser engraving perfect for personalization and gifts",
     price: "#40,000",
-    img: "images/nld-001.jpg"   // ← your real image
+    img: "images/nld-1.jpg",
   },
   {
     name: "NLD-02",
-    description: "Romantic heart-shaped laser cut ideal for jewelry or wedding decor",
+    description:
+      "Romantic heart-shaped laser cut ideal for jewelry or wedding decor",
     price: "#35,000",
-    img: "images/nld-002.jpg"
+    img: "images/nld-2.jpg",
   },
   {
     name: "NLD-03",
-    description: "Modern circular geometric pattern for contemporary home decor",
+    description:
+      "Modern circular geometric pattern for contemporary home decor",
     price: "#35,000",
-    img: "images/nld-003.jpg"
+    img: "images/nld-3.jpg",
   },
   {
     name: "NLD-04",
     description: "Delicate floral laser design perfect for elegant accessories",
     price: "#35,000",
-    img: "images/nld-004.jpg"
+    img: "images/nld-4.jpg",
+  },
+  {
+    name: "NLD-05",
+    description: "Delicate floral laser design perfect for elegant accessories",
+    price: "#35,000",
+    img: "images/nld-5.jpg",
+  },
+  {
+    name: "NLD-06",
+    description: "Delicate floral laser design perfect for elegant accessories",
+    price: "#35,000",
+    img: "images/nld-6.jpg",
+  },
+  {
+    name: "NLD-07",
+    description: "Delicate floral laser design perfect for elegant accessories",
+    price: "#35,000",
+    img: "images/nld-7.jpg",
+  },
+  {
+    name: "NLD-08",
+    description: "Delicate floral laser design perfect for elegant accessories",
+    price: "#35,000",
+    img: "images/nld-8.jpg",
+  },
+  {
+    name: "NLD-09",
+    description: "Delicate floral laser design perfect for elegant accessories",
+    price: "#35,000",
+    img: "images/nld-9.jpg",
+  },
+  {
+    name: "NLD-10",
+    description: "Delicate floral laser design perfect for elegant accessories",
+    price: "#35,000",
+    img: "images/nld-10.jpg",
+  },
+  {
+    name: "NLD-11",
+    description: "Delicate floral laser design perfect for elegant accessories",
+    price: "#35,000",
+    img: "images/nld-11.jpg",
+  },
+  {
+    name: "NLD-12",
+    description: "Delicate floral laser design perfect for elegant accessories",
+    price: "#35,000",
+    img: "images/nld-12.jpg",
+  },
+  {
+    name: "NLD-13",
+    description: "Delicate floral laser design perfect for elegant accessories",
+    price: "#35,000",
+    img: "images/nld-13.jpg",
+  },
+  {
+    name: "NLD-14",
+    description: "Delicate floral laser design perfect for elegant accessories",
+    price: "#35,000",
+    img: "images/nld-14.jpg",
+  },
+  {
+    name: "NLD-15",
+    description: "Delicate floral laser design perfect for elegant accessories",
+    price: "#35,000",
+    img: "images/nld-15.jpg",
+  },
+  {
+    name: "NLD-16",
+    description: "Delicate floral laser design perfect for elegant accessories",
+    price: "#35,000",
+    img: "images/nld-16.jpg",
+  },
+  {
+    name: "NLD-17",
+    description: "Delicate floral laser design perfect for elegant accessories",
+    price: "#35,000",
+    img: "images/nld-17.jpg",
+  },
+  {
+    name: "NLD-18",
+    description: "Delicate floral laser design perfect for elegant accessories",
+    price: "#35,000",
+    img: "images/nld-18.jpg", // ← no comma after last item (safe style)
   },
 ];
 
