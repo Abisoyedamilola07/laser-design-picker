@@ -1,31 +1,28 @@
 // Your designs array - UPDATE THESE WITH YOUR ACTUAL IMAGES
 const designs = [
   {
-    name: "Star Pattern",
-    description:
-      "Beautiful starry laser engraving perfect for personalization and gifts",
+    name: "NLD-01",
+    description: "Beautiful starry laser engraving perfect for personalization and gifts",
     price: "#40,000",
-    img: "https://picsum.photos/400/300?random=1", // Update with your actual image filename
+    img: "images/nld-001.jpg"   // ← your real image
   },
   {
-    name: "Heart Design",
-    description:
-      "Romantic heart-shaped laser cut ideal for jewelry or wedding decor",
+    name: "NLD-02",
+    description: "Romantic heart-shaped laser cut ideal for jewelry or wedding decor",
     price: "#35,000",
-    img: "imagesNLD-002.jpg", // Update with your actual image filename
+    img: "images/nld-002.jpg"
   },
   {
-    name: "Geometric Circle",
-    description:
-      "Modern circular geometric pattern for contemporary home decor",
+    name: "NLD-03",
+    description: "Modern circular geometric pattern for contemporary home decor",
     price: "#35,000",
-    img: "imagesNLD-003.jpg", // Update with your actual image filename
+    img: "images/nld-003.jpg"
   },
   {
-    name: "Floral Motif",
+    name: "NLD-04",
     description: "Delicate floral laser design perfect for elegant accessories",
     price: "#35,000",
-    img: "imagesNLD-004.jpg", // Update with your actual image filename
+    img: "images/nld-004.jpg"
   },
 ];
 
